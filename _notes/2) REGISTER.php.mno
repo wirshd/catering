@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Register" value="name:BookID;datatype:string,name:CustName;datatype:string,name:CustNo;datatype:int,name:CustEmail;datatype:string,name:CustPass;datatype:string,name:CustAddress;datatype:string,name:BookDate;datatype:date" />
+</info>
